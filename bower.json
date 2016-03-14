@@ -28,10 +28,6 @@
     "select",
     "form"
   ],
-  "dependencies": {
-    "jquery": "~2.1.0",
-    "bootstrap": "~3.1.1"
-  },
   "devDependecies": {
     "mocha": "~1.12.*",
     "chai": "~1.7.*",
